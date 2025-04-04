@@ -34,7 +34,7 @@
 - **XGBoost Regressor**
 
 ### 4. **Evaluation Metrics**
-- **Classification:** Accuracy, Confusion Matrix
+- **Classification:** Accuracy, F1 Score, Precision, Confusion Matrix
 - **Regression:** RMSE (Root Mean Squared Error), R² Score
 
 ---
