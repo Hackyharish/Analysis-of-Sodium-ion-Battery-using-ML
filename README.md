@@ -70,7 +70,7 @@
 - [Harish R](https://www.linkedin.com/in/harish-r-8b68a333b/)
 - [Mauli Rajguru](https://www.linkedin.com/in/maulir/)
 - [Shivani K C](https://www.linkedin.com/in/shivani-k-c/)
-- [Vishnu K Mahesh]()
+- [Vishnu K Mahesh](https://www.linkedin.com/in/vishnu-mahesh-9171a9307/)
 ---
 
 ## 📄 License
