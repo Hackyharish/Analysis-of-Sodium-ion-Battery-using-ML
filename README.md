@@ -65,7 +65,7 @@
 
 ---
 
-## 🤝 Contributing
+## 🤝 Authors
 
 - [Harish R](https://www.linkedin.com/in/harish-r-8b68a333b/)
 - [Mauli Rajguru](https://www.linkedin.com/in/maulir/)
