@@ -1,6 +1,6 @@
 # 🔋 Sodium-ion Battery Analysis using Machine Learning
 
-![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=flat-square&logo=github)
+![Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 **🟢 Currently Active** – Core models are implemented and functional. Improvements and visualizations are in progress.
 
